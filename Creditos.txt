@@ -1,0 +1,2 @@
+Basado en el ejemplo de Phaser 2: "Invaders"
+https://phaser.io/examples/v2/games/invaders
